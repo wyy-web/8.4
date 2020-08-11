@@ -34,7 +34,7 @@ ul,li{
  /* 头部区域结束 */
 
  /* banner开始 */
- .banner{
+ /* .banner{
     width: 100%;
     height: 380px;
     position: relative;
@@ -60,7 +60,7 @@ ul,li{
     cursor: pointer;
     display: inline-block;
     /* 不独占一行的块级元素 */    
- }
+ /* } */ 
  /* banner结束 */
  /* 精品课程开始 */
  .course{
